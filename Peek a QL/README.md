@@ -6,4 +6,4 @@ Như hình ta thấy có query như trên gồm id title và cả username. Hãy
 
 ![password](./query.png)
 
-Như vậy chỉ tìm username = admin là có thể login vào và thấy flag.
+Như vậy chỉ cần tìm username = admin là có thể login vào và thấy flag.
